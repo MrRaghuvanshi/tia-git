@@ -22,6 +22,7 @@
     <Member Name="Tag_E" Datatype="Int">
       <StartValue>5</StartValue>
     </Member>
+    <Member Name="Tag_F" Datatype="Int" />
     <Member Name="Testing" Datatype="Array[0..4] of Int" />
   </Section>
 </Sections></Interface>
