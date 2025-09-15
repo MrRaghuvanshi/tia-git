@@ -5,6 +5,8 @@
     <AttributeList>
       <Interface><Sections xmlns="http://www.siemens.com/automation/Openness/SW/Interface/v5">
   <Section Name="Static">
+    <Member Name="testing_bool_output" Datatype="Bool" />
+    <Member Name="testing_bool_input" Datatype="Bool" />
     <Member Name="Tag_A" Datatype="Int">
       <StartValue>1</StartValue>
     </Member>
