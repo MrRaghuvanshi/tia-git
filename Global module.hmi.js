@@ -3,3 +3,6 @@
 ***End of Global definition area***
 Changes to this comment may cause incorrect behavior during document based import.
 </auto-generated>*/
+export function DummyCode(parameter1, parameter2) {
+
+}
