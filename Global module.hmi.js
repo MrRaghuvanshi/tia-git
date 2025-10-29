@@ -4,5 +4,8 @@
 Changes to this comment may cause incorrect behavior during document based import.
 </auto-generated>*/
 export function DummyCode(parameter1, parameter2) {
+test
+}
+export function NewDummyCreated(parameter1, parameter2) {
 
 }
